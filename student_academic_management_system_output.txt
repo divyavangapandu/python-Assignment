@@ -1,0 +1,30 @@
+College Code: ANIL
+College Name: ANITS College
+Location: Visakhapatnam
+
+Student ID: 61
+Name: Divya
+Marks: 90 92 95
+Average Marks: 92.33333333333333
+CGPA: 9.233333333333333
+Age: 19
+Fee Paid: 30000
+Fee Balance: 20000
+
+Student ID: 29
+Name: keerthi
+Marks: 92 89 91
+Average Marks: 90.66666666666667
+CGPA: 9.066666666666666
+Age: 20
+Fee Paid: 25000
+Fee Balance: 25000
+
+Student ID: 52
+Name: moni
+Marks: 93 91 92
+Average Marks: 92.0
+CGPA: 9.2
+Age: 20
+Fee Paid: 40000
+Fee Balance: 10000
